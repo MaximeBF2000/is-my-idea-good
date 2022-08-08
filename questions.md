@@ -1,0 +1,6 @@
+- Do you know a lot about the industry of your idea ?
+- Could you build a prototype in less than a month ?
+- Would your idea resolve a problem that you have in your life ?
+- Would your idea resolve a problem that people you know have in their lives ?
+- Is there similar products that have paying customers on the internet ?
+- Can you find at least 1 major difference from your competition ?
